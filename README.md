@@ -2,6 +2,8 @@
 
 ![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
 
+## Url[Live Site](https://prefresh.github.io/3-COLUMN-PREVIEW-CARD-COMPONENT/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
